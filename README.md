@@ -1,4 +1,4 @@
-![MasterHead](https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-1920x768.png)
+![MasterHead](https://i.pinimg.com/originals/da/e3/6a/dae36a74337de05e249ce5afcec907c1.gif)
 <h1 align="center">Hi 👋, I'm Aakash Choudhary</h1>
 
 <h1>✨ About Me:</h1>
@@ -10,8 +10,6 @@
 
 <h1 align="left" >🌐 Socials:</h1>
 <p dir="auto">
-    <a href="https://instagram.com/aakash._2407" rel="nofollow"><img src="https://camo.githubusercontent.com/25086f56cd45be5a899ae3feff86e2002bbd656fa569b666d2dd828b538fc9e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;">
-    </a>
     <a href="https://twitter.com/Aakash240704" rel="nofollow"><img src="https://camo.githubusercontent.com/0ac419eb4df53beeb48c20e036e8d66b075b28a56450d37427ee975d5e73ab75/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter" data-canonical-src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;">
     </a>
 </p>
