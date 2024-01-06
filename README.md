@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/da/e3/6a/dae36a74337de05e249ce5afcec907c1.gif)
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://i.pinimg.com/originals/da/e3/6a/dae36a74337de05e249ce5afcec907c1.gif" width="624" height="200">
 <h1 align="center">Hi 👋, I'm Aakash Choudhary</h1>
 
 <h1>✨ About Me:</h1>
@@ -31,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashchoudhary24&" alt="aakashchoudhary24" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashchoudhary24&label=Profile%20views&color=0e75b6&style=flat" alt="aakashchoudhary24" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashchoudhary24&label=Profile%20views&color=0e75b6&style=flat" alt="aakashchoudhary24" /> </p>    
