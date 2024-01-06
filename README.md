@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/da/e3/6a/dae36a74337de05e249ce5afcec907c1.gif" width="1624" height="200">
+<img src="https://i.pinimg.com/originals/da/e3/6a/dae36a74337de05e249ce5afcec907c1.gif" width="1624" height="300">
 <h1 align="center">Hi 👋, I'm Aakash Choudhary</h1>
 
 <h1>✨ About Me:</h1>
