@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently exploring **Web Dev**
 - 🌱 Currently learning **HTML, CSS & JS**
-- 🏰 Student at **Amrita Vishwa Vidyapeetham**
+- 🏰 Student at **Amrita Vishwa Vidyapeetham (2023-2027)**
 
 
 <h1 align="left" >🌐 Socials:</h1>
