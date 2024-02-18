@@ -4,3 +4,11 @@
   <li>🔭 Currently exploring Web Development</li>
   <li>🎯 Eager to learn </li></li>
 </ul>
+
+<h1 align="left">GitHub Statistics</h1>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Aakashchoudhary24 &locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
