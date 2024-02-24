@@ -10,8 +10,10 @@
 ###
 
 <div align= "left">
-  <img src="https://streak-stats.demolab.com?user=Aakashchoudhary24 &locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Aakashchoudhary24 &locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />  </div>
+<div align= "left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakashchoudhary24&theme=codeSTACKr" >
 </div>
-<div align = "right">
-  <img <img height="150" alt="languages graph" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=Aakashchoudhary24&amp;locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=5&amp;theme=radical&amp;hide_border=false" style="max-width: 100%;">
+<div align = "left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aakashchoudhary24&theme=codestackr" alt="GitHub Streak">
 </div>
