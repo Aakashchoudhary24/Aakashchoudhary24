@@ -9,11 +9,7 @@
 
 ###
 
-<div align= "left">
-  <img src="https://streak-stats.demolab.com?user=Aakashchoudhary24 &locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />  </div>
-<div align= "left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakashchoudhary24&theme=codeSTACKr" >
-</div>
-<div align = "left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aakashchoudhary24&theme=codestackr" alt="GitHub Streak">
+<div align= "center">
+  <img src="https://streak-stats.demolab.com?user=Aakashchoudhary24 &locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakashchoudhary24&theme=radical&border_radius=5" height="150"" >
 </div>
