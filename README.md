@@ -3,6 +3,7 @@
   <li>👨🏻‍🎓 Undergrad at Amrita Vishwa Vidyapeetham
   <li>🔭 Currently exploring Web Development</li>
   <li>🎯 Eager to learn </li></li>
+  <li>✉  Reach me at : <a href="mailto:aakashchoudhary724@gmail.com"> aakashchoudhary724@gmail.com</a></li>
 </ul>
 
 <h1 align="left">GitHub Statistics</h1>
