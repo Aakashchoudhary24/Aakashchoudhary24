@@ -1,6 +1,6 @@
 <h1>Hi there 👋, I am Aakash</h1>
 <ul>
-  <li>👨🏻‍🎓 Undergrad at Amrita Vishwa Vidyapeetham
+  <li>👨🏻‍🎓 Computer Science and Engineering Undergrad at Amrita Vishwa Vidyapeetham, Amritapuri.
   <li>🔭 Currently exploring Web Development</li>
   <li>🎯 Eager to learn </li></li>
   <li>✉  Reach me at : <a href="mailto:aakashchoudhary724@gmail.com"> aakashchoudhary724@gmail.com</a></li>
