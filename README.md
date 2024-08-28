@@ -1,4 +1,4 @@
-<h1>Hi there 👋, I am Aakash</h1>
+# Hi there 👋, I am Aakash
 <ul>
   <li>👨🏻‍🎓 Computer Science and Engineering Undergrad at Amrita Vishwa Vidyapeetham, Amritapuri.
   <li>🔭 Currently exploring Web Development</li>
@@ -6,11 +6,8 @@
   <li>✉  Reach me at : <a href="mailto:aakashchoudhary724@gmail.com"> aakashchoudhary724@gmail.com</a></li>
 </ul>
 
-<h1 align="left">GitHub Statistics</h1>
-
-###
-
+# Github Statistics
 <div align= "left">
-  <img src="https://streak-stats.demolab.com?user=Aakashchoudhary24 &locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakashchoudhary24&theme=radical&border_radius=5" height="150"" >
+  <img src="https://streak-stats.demolab.com?user=Aakashchoudhary24 &locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5" height="150" alt="streak graph"  />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakashchoudhary24&hide_border=true&theme=aura&border_radius=5" height="150"" >
 </div>
